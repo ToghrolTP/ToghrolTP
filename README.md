@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://github.com/ToghrolTP">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=200&color=F7F7F7&center=true&vCenter=true&width=600&lines=impl+SystemProgrammer+for+Toghrol+%7B;++++fn+focus()+-%3E+Stack+%7B;++++++++vec!%5B%22Rust%22%2C+%22Low-Level%22%2C+%22TUI%22%5D;++++%7D" alt="Rust Code Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=200&color=F7F7F7&center=true&vCenter=true&width=600&lines=impl+SystemProgrammer+for+Toghrol+%7B;++++fn+focus()+-%3E+Stack+%7B;++++++++vec!%5B%22Rust%22%2C+%22Low-Level%22%2C+%22TUI%22%5D;++++%7D;%7D" alt="Rust Code Animation" />
 </a>
 
 <br>
