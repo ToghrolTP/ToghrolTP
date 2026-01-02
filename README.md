@@ -17,15 +17,10 @@ I focus on **low-level development** and building **Terminal User Interfaces (TU
 
 <br>
 
----
 
-### 🛠️ The Tech Stack
+## Technologies & Tools
 
-| **Core & Systems** | **Scripting & Web** | **Environment** |
-| :--- | :--- | :--- |
-| ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E04006) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![HTML/CSS](https://img.shields.io/badge/UI%2FUX-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+![Rust](https://img.shields.io/badge/-Rust-d65d0e?style=flat&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/-C-458588?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-458588?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-b16286?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-d79921?style=flat&logo=python&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-689d6a?style=flat&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-b16286?style=flat&logo=sass&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-458588?style=flat&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-504945?style=flat&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-d79921?style=flat&logo=linux&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-98971a?style=flat&logo=vim&logoColor=white) ![Git](https://img.shields.io/badge/-Git-cc241d?style=flat&logo=git&logoColor=white)
 
 <br>
 
